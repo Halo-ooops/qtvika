@@ -1,0 +1,10 @@
+{
+  "done": true,
+  "completed_at": "2026-02-20T10:43:01.535835",
+  "datasets_dir": "/home/kamal/Документы/moduli/qtvika/../ml_data/datasets",
+  "models_dir": "/home/kamal/Документы/moduli/qtvika/../ml_data/models",
+  "results": [
+    "OK auto_system_performance.pkl (1500 rows)",
+    "OK auto_user_behavior.pkl (1500 rows)"
+  ]
+}

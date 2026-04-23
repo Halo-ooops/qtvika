@@ -1,0 +1,9 @@
+{
+  "user_name": "Пенис",
+  "ai_provider": "g4f",
+  "ai_model": "GPT-4o-mini",
+  "api_key": "",
+  "voice_enabled": true,
+  "wake_word": true,
+  "setup_complete": true
+}
